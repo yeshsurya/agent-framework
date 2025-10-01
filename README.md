@@ -121,6 +121,7 @@ Console.WriteLine(await agent.RunAsync("Write a haiku about Microsoft Agent Fram
 
 - [Documentation](https://learn.microsoft.com/agent-framework/)
 - [Agent Framework Repository](https://github.com/microsoft/agent-framework)
+- [Low-Level Design and Features](./docs/LOW_LEVEL_DESIGN.md) - Comprehensive technical documentation
 - [Design Documents](./docs/design)
 - [Architectural Decision Records](./docs/decisions)
 - [MSFT Learn Docs](https://learn.microsoft.com/agent-framework/overview/agent-framework-overview)
